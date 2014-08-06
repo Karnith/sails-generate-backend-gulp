@@ -1,6 +1,6 @@
 {
   "name": "sails-generate-backend-gulp",
-  "version": "0.11.2",
+  "version": "0.0.1",
   "description": "Generate a backend for Sails.",
   "main": "lib/index.js",
   "scripts": {
@@ -13,7 +13,7 @@
     "generate",
     "plugin"
   ],
-  "author": "balderdashy",
+  "author": "karnith",
   "license": "MIT",
   "dependencies": {
     "lodash": ">=2.4.x",
