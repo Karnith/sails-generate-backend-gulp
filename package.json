@@ -1,5 +1,5 @@
 {
-  "name": "sails-generate-backend",
+  "name": "sails-generate-backend-gulp",
   "version": "0.11.2",
   "description": "Generate a backend for Sails.",
   "main": "lib/index.js",
