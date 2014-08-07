@@ -1,7 +1,7 @@
 {
   "name": "sails-generate-backend-gulp",
-  "version": "0.0.1",
-  "description": "Generate a backend for Sails.",
+  "version": "0.0.2",
+  "description": "Generate a backend for Sails using gulp instead of grunt.",
   "main": "lib/index.js",
   "scripts": {
     "test": "mocha"
@@ -11,7 +11,8 @@
     "generator",
     "sails",
     "generate",
-    "plugin"
+    "plugin",
+    "gulp"
   ],
   "author": "karnith",
   "license": "MIT",
