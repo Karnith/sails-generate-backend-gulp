@@ -1,3 +1,8 @@
+/**
+ *  Gulp hook for sails
+ * 
+ */
+
 module.exports = function (sails) {
 
   /**
