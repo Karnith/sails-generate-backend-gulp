@@ -24,6 +24,13 @@
     "reportback": "*",
     "fs-extra": "*"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Karnith/sails-generate-backend-gulp"
+  },
+  "bugs": {
+    "url": "https://github.com/Karnith/sails-generate-backend-gulp/issues"
+  },
   "sailsGenerator": {
     "type": "backend",
     "behavior": "overrides `sails generate backend`",
