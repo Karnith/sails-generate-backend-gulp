@@ -27,10 +27,10 @@ $ npm install -g sails-generate-new-gulp
 {
     "generators": {
         "modules": {
-	    "new": "sails-generate-new-gulp",
-	    "frontend": "sails-generate-frontend-gulp",
-	    "backend": "sails-generate-backend-gulp",
-	    "gulpfile": "sails-generate-gulpfile"
+            "new": "sails-generate-new-gulp",
+            "frontend": "sails-generate-frontend-gulp",
+            "backend": "sails-generate-backend-gulp",
+            "gulpfile": "sails-generate-gulpfile"
         }
     }
 }
