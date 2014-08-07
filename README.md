@@ -3,7 +3,7 @@
 # sails-generate-backend-gulp
 
 
-A `backend` generator for use with the Sails command-line interface that works with sails lift.
+A `backend` generator for use with the Sails command-line interface that works with gulp and sails lift.
 
 
 ### Installation
@@ -36,7 +36,7 @@ var sailsgen = require('sails-generate');
 var scope = {
 	rootPath: path.resolve(__dirname)
 };
-sailsgen(require('sails-generate-backend'), scope, function (err) {
+sailsgen(require('sails-generate-backend-gulp'), scope, function (err) {
 	if (err) throw err;
 
 	// It worked.
