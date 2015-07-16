@@ -1,0 +1,40 @@
+{
+  "name": "sails-generate-backend-gulp",
+  "version": "0.0.5",
+  "description": "Generate a backend for Sails using gulp instead of grunt.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "backend",
+    "generator",
+    "sails",
+    "generate",
+    "plugin",
+    "gulp"
+  ],
+  "author": "karnith",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Karnith/sails-generate-backend-gulp"
+  },
+  "dependencies": {
+    "lodash": "*",
+    "merge-defaults": "*"
+  },
+  "devDependencies": {
+    "sails-generate": "Karnith/sails-generate",
+    "reportback": "*",
+    "fs-extra": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/Karnith/sails-generate-backend-gulp/issues"
+  },
+  "sailsGenerator": {
+    "type": "backend",
+    "behavior": "overrides `sails generate backend`",
+    "sailsVersion": "~0.11.0"
+  }
+}
