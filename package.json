@@ -16,6 +16,10 @@
   ],
   "author": "karnith",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Karnith/sails-generate-backend-gulp"
+  },
   "dependencies": {
     "lodash": "*",
     "merge-defaults": "*"
@@ -24,10 +28,6 @@
     "sails-generate": "Karnith/sails-generate",
     "reportback": "*",
     "fs-extra": "*"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/Karnith/sails-generate-backend-gulp"
   },
   "bugs": {
     "url": "https://github.com/Karnith/sails-generate-backend-gulp/issues"
